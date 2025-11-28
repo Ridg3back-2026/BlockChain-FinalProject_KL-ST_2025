@@ -1,0 +1,12 @@
+# Testing – BlockAcademia Backend
+
+This document summarizes the tests performed for the blockchain-based
+academic credential & micro-certification verification system.
+
+## 1. Automated Unit Tests (`test_blockacademia.py`)
+
+Run from the `blockacademedia` folder (after `source venv/bin/activate`):
+
+```bash
+python3 -m unittest test_block.py
+```
